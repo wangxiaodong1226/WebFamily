@@ -3,7 +3,7 @@
 提问让我们回答
 打开 新建 Issue 链接, 格式如下：
 
-![image-20220331092424672](/home/tusimple/.config/Typora/typora-user-images/image-20220331092424672.png)
+![pr流程](./assets/pr.png)
 
 Issue 规范
 issue 仅用于提交面试题，其它内容可能会被直接关闭。如果你在使用时产生了疑问，可以加作者微信
